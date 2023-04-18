@@ -1,0 +1,2 @@
+﻿  BinaryRingBuffer.cpp
+D:\AfterNC\YoungRaeGame\YoungRaeServer\Shared\Network\BinaryRingBuffer.cpp(35): error C4716: 'BinaryRingBuffer::DirectFreeSize': must return a value

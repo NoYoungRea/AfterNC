@@ -1,0 +1,2 @@
+D:\AfterNC\GameServer\YoungRaeServer\x64\Debug\Network.pdb
+D:\AfterNC\GameServer\YoungRaeServer\Shared\Network\x64\Debug\Network.pdb
